@@ -39,7 +39,7 @@ I'm a student passionate about programming, problem solving, and building projec
 ## 📊 Currently Learning
 
 ```text
-C++                █████████░  90%
+C                  █████████░  90%
 DSA                ███████░░░  70%
 HTML/CSS           ████████░░  80%
 JavaScript         █████░░░░░  50%
