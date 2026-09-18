@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Dhananjay
 
-<!--
-**Rajsoni1819/RajSoni1819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Student | Programmer | Developer
 
-Here are some ideas to get you started:
+I'm a student passionate about programming, problem solving, and building projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently working on personal projects
+- 🌱 Currently learning **C++ & Data Structures and Algorithms**
+- 💻 Exploring **Web Development**
+- 🐍 Learning **Python**
+- 📚 Improving my problem-solving skills
+- 🚀 Interested in building useful real-world projects
+
+## 🛠️ Skills
+
+### Programming
+- C++
+- Python
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📌 Projects
+
+- 🔐 Random Password Generator
+- 🎯 Guess the Number Game
+- 🌐 Web Development Projects
+- 🧠 DSA Practice in C++
+
+## 📊 Currently Learning
+
+```text
+C++                █████████░  90%
+DSA                ███████░░░  70%
+HTML/CSS           ████████░░  80%
+JavaScript         █████░░░░░  50%
+Python             ██████░░░░  60%
+Git & GitHub       ███████░░░  70%
