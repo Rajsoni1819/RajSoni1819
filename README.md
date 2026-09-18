@@ -7,7 +7,7 @@ I'm a student passionate about programming, problem solving, and building projec
 ## 🚀 About Me
 
 - 🔭 Currently working on personal projects
-- 🌱 Currently learning **C++ & Data Structures and Algorithms**
+- 🌱 Currently learning **C & Data Structures and Algorithms**
 - 💻 Exploring **Web Development**
 - 🐍 Learning **Python**
 - 📚 Improving my problem-solving skills
@@ -16,7 +16,7 @@ I'm a student passionate about programming, problem solving, and building projec
 ## 🛠️ Skills
 
 ### Programming
-- C++
+- C
 - Python
 
 ### Web Development
